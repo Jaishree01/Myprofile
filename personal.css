@@ -1,0 +1,71 @@
+body{
+
+font-size:large;
+background-color: gray;
+}
+nav{
+    background-color:blue;
+    padding:30px;
+    text-align: center;
+    border-style: double;
+}
+nav a{
+    text-decoration: none;
+    padding: 20px ;
+    color: white;
+    font-size: larger;
+}
+
+
+.ig button{
+margin: 10px;
+   background-color: black;
+   box-sizing:border-box;
+   
+}
+.ig{
+    display:flex;
+    align-items: center;
+    
+ 
+}
+.info{
+    text-align: center;
+    margin-left:25%
+}
+.Objective {
+   
+    background-color: darkgoldenrod;
+}
+.skills{
+ 
+    
+}
+.Exprience{
+    text-align: center;
+    font-size: 20px;
+    background-color:  blue;
+    padding: 5px;
+    border-style: double;
+}
+.gallery{
+   text-align: center;
+   gap: 10px;
+  
+}
+.gallery img{
+    width:40%;
+    height:40%;
+    margin: 20px;
+}
+.exp1{
+    margin: 20px;
+}
+
+.exp1 li{
+    margin-bottom: 10px;
+            line-height: 1.5;
+            
+}
+
+
